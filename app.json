@@ -9,14 +9,18 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gabrielcorrea.shxgabrielapp"
+      "package": "com.gabrielcorrea.shxgabrielapp",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "bundler": "metro",
@@ -45,6 +49,10 @@
       "eas": {
         "projectId": "77c286aa-3874-45ab-9a1f-3c1d2214666a"
       }
+    },
+    "owner": "gabrielcorrea",
+    "updates": {
+      "url": "https://u.expo.dev/77c286aa-3874-45ab-9a1f-3c1d2214666a"
     }
   }
 }
