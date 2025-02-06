@@ -3,7 +3,7 @@
 Aplicativo móvel para criar tarefas feito com React-native, Expo, Gluestack e Typescript. 📱
 
 <h1 align='left'>
-  <img src='./app_qrcode.png'></img>
+  <img src='./eas-update.svg'></img>
 
 </h1>
 
