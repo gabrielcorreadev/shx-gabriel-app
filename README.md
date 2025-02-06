@@ -5,6 +5,7 @@ Aplicativo móvel para criar tarefas feito com React-native, Expo, Gluestack e T
   <img src='./eas-update.svg'></img>
 
 </h1>
+Escaneie o código QR com o Expo GO no seu telefone. 📱
 
 ## 💻 Pré-requisitos
 
