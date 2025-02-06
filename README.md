@@ -1,4 +1,3 @@
-# shx-gabriel-app
 # SHX App UI Test
 Aplicativo móvel para criar tarefas feito com React-native, Expo, Gluestack e Typescript. 📱
 
