@@ -44,7 +44,3 @@ Execute o aplicativo Expo
 ```
 $ npx expo start
 ```
-Teste Ao Vivo:
-```
-$ https://expo.dev/preview/update?message=nova%20versao&updateRuntimeVersion=1.0.0&createdAt=2025-02-06T16%3A09%3A47.858Z&slug=exp&projectId=77c286aa-3874-45ab-9a1f-3c1d2214666a&group=92f4b3e7-74e0-4029-b0ad-66872981f81d
-```
